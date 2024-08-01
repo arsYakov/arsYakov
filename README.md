@@ -1,11 +1,11 @@
-<h1 align="center">Greetings, I'm arsYakov</h1>
-<h3 align="center">A human being with an interested in creating software</h3>
+<h1 align="center">arsYakov</h1>
+<h3 align="center">A dude with an interested in creating software</h3>
 
 - I’m currently working on **my personal website**
 
 - I’m currently learning **Azure**
 
-- Know about my experiences [https://www.linkedin.com/in/hagopiant/](https://www.linkedin.com/in/hagopiant/)
+- Know about my experiences [LinkedIn](https://www.linkedin.com/in/hagopiant/)
 
 - Fun fact **W can sometimes be a vowel just like Y**
 
