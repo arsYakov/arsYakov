@@ -1,4 +1,4 @@
-<h1 align="center">Shalom, I'm arsYakov</h1>
+<h1 align="center">Greetings, I'm arsYakov</h1>
 <h3 align="center">A human being with an interested in creating software</h3>
 
 - I’m currently working on **my personal website**
