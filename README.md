@@ -1,12 +1,10 @@
 <h1 align="center">arsYakov</h1>
 <h3 align="center">A dude with an interested in creating software</h3>
 
-- I’m currently working on **my personal website**
+- I began in the networking and tech support side of the house and discovered a passion for development while trying to scale the rollout of a network security technology. 
 
 - I’m currently learning **Azure**
-
-- Know about my experiences [LinkedIn](https://www.linkedin.com/in/hagopiant/)
-
+  
 - Fun fact **W can sometimes be a vowel just like Y**
 
 <h3 align="left">Connect with me:</h3>
